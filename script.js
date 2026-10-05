@@ -1,0 +1,1 @@
+console.log("GDA DEV запущен");
